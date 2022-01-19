@@ -69,3 +69,4 @@ Join `#rit-foss` on the Freenode IRC network or join the bridged Telegram group.
 ## Legal
 
 All work licensed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
