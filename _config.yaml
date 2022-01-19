@@ -9,7 +9,7 @@
 # --- base website settings ---
 
 title: FOSS@RIT Profiles
-repository: FOSSRIT/people
+repository: FOSSRIT/HFOSS-2022-People
 author: RIT
 email: foss@rit.edu
 description: Interactive directory of FOSS@RIT community members
