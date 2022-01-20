@@ -37,7 +37,7 @@ The profiles are used for record-keeping and contact information.
     bundle exec jekyll serve --watch
     ```
 
-1. Browse to http://localhost:4000
+1. Browse to http://localhost:4000/people/
 
 Ta-da, the project should appear locally in your browser.
 
