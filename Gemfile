@@ -4,6 +4,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 gem "github-pages", group: :jekyll_plugins
 gem "rack", ">= 2.1.4"
+gem 'wdm', '~> 0.1.0'
 
 group :test do
   gem 'capybara'
@@ -15,3 +16,5 @@ group :test do
   gem 'selenium-webdriver'
   gem 'webdrivers'
 end
+
+gem "webrick", "~> 1.7"
