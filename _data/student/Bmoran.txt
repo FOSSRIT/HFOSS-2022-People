@@ -1,0 +1,8 @@
+---
+Name: Ben Moran
+Blog: https://hfoss2023.cad.rit.edu/wordpress/wp-admin/index.php
+Email: btm2637@rit.edu
+Major: Game Design & Development
+Graduation: 2026
+Handle: Bmoran_24
+GitHub: https://github.com/Bmoran24
